@@ -9,7 +9,7 @@ Neste repositório, você encontrará uma implementação de um desafio de model
 
 ## Diagrama UML
 <p align="center">
-    <img src="docs/DiagramaUML.png" alt="Diagrama de Classes">
+    <img src="./doc/DiagramaUML.png" alt="Diagrama de Classes">
 </p>
 
 ### `iPhone`
